@@ -1,0 +1,15 @@
+{ "hardSkills":[
+	"Working with git",
+	"Testing API", 
+	"Testing API with Postman", 
+	"bash scripting", 
+	"Basic knowledge of SQL", 
+	"Performance testing with Jmetr"],
+ 
+ "softSkils":
+ [
+	       "Communication in team",
+	       "Mentoring",
+	       "Presentetting"
+ ]}
+
