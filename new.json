@@ -1,0 +1,10 @@
+{
+	"name": "Masha",
+	"age": "30",
+	"son": {
+		"name": "Ivan",
+		"age": 6
+	},
+	"profession": "QA",
+	"pets": null
+}
